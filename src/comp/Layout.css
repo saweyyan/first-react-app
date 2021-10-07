@@ -1,0 +1,18 @@
+.layout {
+  display: flex;
+  flex-direction: column;
+  background-color: gray;
+  height: 100vh;
+}
+
+.footer {
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  flex-direction: row;
+}
+
+.layout img {
+  width: 100px;
+  height: 100px;
+}
